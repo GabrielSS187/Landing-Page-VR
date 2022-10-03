@@ -35,7 +35,6 @@ https://user-images.githubusercontent.com/86306877/193551882-48848cdc-13ef-437a-
 - React JS/TS
 - Vite
 - Styled-Components
-- react-router-dom
 - use-events
 
 ## Implantação em produção
@@ -52,10 +51,10 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-https://github.com/GabrielSS187/Landing-Page-Product-Gss.git
+https://github.com/GabrielSS187/Landing-Page-VR-Gss.git
 
 # entrar na pasta do projeto front end web
-cd Landing-Page-Product-Gss
+cd Landing-Page-VR-Gss
 
 # instalar dependências
 npm install
