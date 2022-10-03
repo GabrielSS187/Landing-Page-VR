@@ -1,8 +1,8 @@
 import { NavigationContainer } from "./styles";
 
 interface NavigationProps {
-  isHeader?: any;
-  isMobileNavActive?: any;
+  isHeader?: boolean;
+  isMobileNavActive?: boolean;
 };
 
 export const Navigation = ({ isHeader, isMobileNavActive }: NavigationProps) => {

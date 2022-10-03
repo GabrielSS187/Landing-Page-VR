@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 interface Props {
-  isHeader?: any;
-  isMobileNavActive?: any;
+  isHeader?: boolean;
+  isMobileNavActive?: boolean;
 };
 
 export const NavigationContainer = styled.div<Props>`
