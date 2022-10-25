@@ -25,9 +25,6 @@ https://user-images.githubusercontent.com/86306877/193551882-48848cdc-13ef-437a-
 - Responsividade
 - Boas Práticas
 
-# Métricas do Google / 🙂
-![Captura de Tela (233)](https://user-images.githubusercontent.com/86306877/193551067-b7a4053a-1962-4c4e-bc2f-987070944033.png)
-
 # Tecnologias utilizadas
 
 ## Front end
