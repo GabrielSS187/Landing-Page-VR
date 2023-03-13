@@ -7,7 +7,7 @@
 
 ### Link: [Landing-Page-VR-Gss](https://landing-page-vr-gss.vercel.app/)
 
-``Landing Page VR Gss`` é uma aplicação front-end web construida para marketing e anúncios de tecologia VR.
+``Landing Page VR Gss`` é uma aplicação front-end web construida para marketing e anúncios de tecnologia VR.
 
 A aplicação consiste em propagar a tecnologia VR. Com um desing moderno, elegante e responsivo
 para dar uma experiência agradável a o usuário. 
